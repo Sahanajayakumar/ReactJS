@@ -15,10 +15,7 @@ function App() {
 
         <div><p>They Both Are Competitors</p></div>
       </div>  
-     
-     
-    
-  );
+     );
 }
 
 export default App;
